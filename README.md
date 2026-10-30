@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PIET Volunteer Management System — Fresh Build
 
 A new Java 21 desktop application for college volunteer/event workflows. This project is built from scratch with Java Swing, JDBC and MySQL; it does not reuse the earlier ZIP's source code.
@@ -83,4 +82,3 @@ VolunteerManagementSystem/
 =======
 # Volunteer-Management-System
 A Java-based Volunteer Management System designed for college campuses to streamline event creation, approval, volunteer registration, and attendance tracking. The platform provides role-based access for Students, Hosts (Club Captains), HODs, and Proctors, making volunteer coordination and event management more efficient and organized.
->>>>>>> 93f051f21a458d416d19737120525939ad355cae
