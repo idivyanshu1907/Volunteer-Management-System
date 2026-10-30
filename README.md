@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PIET Volunteer Management System — Fresh Build
 
 A new Java 21 desktop application for college volunteer/event workflows. This project is built from scratch with Java Swing, JDBC and MySQL; it does not reuse the earlier ZIP's source code.
@@ -79,3 +80,7 @@ VolunteerManagementSystem/
 - Verified volunteer hours currently use a simple rule of **2 hours per event marked Present**. Change the policy in the service layer if the college defines a different duration.
 - The app creates schema tables automatically; database backup and user account administration should be configured before production use.
 - Do not commit local database passwords to source control.
+=======
+# Volunteer-Management-System
+A Java-based Volunteer Management System designed for college campuses to streamline event creation, approval, volunteer registration, and attendance tracking. The platform provides role-based access for Students, Hosts (Club Captains), HODs, and Proctors, making volunteer coordination and event management more efficient and organized.
+>>>>>>> 93f051f21a458d416d19737120525939ad355cae
