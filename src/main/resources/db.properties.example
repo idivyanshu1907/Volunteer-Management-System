@@ -1,0 +1,4 @@
+# Copy these values to environment variables, or configure the VM options documented in README.md.
+# VMS_DB_URL=jdbc:mysql://localhost:3306/volunteer_management_vms?useSSL=false&serverTimezone=Asia/Kolkata
+# VMS_DB_USER=root
+# VMS_DB_PASSWORD=your_mysql_password
